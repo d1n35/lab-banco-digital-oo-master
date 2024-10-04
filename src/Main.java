@@ -20,6 +20,8 @@ public class Main {
 		
 		cc.imprimirExtrato();
 		poupanca.imprimirExtrato();
+
+		scan.close();
 	}
 
 }
